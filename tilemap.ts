@@ -19,7 +19,6 @@ namespace myTiles {
 2 . . . . . . . . 2 
 . . . . . . . . . . 
 `, [myTiles.transparency16,sprites.builtin.forestTiles5,sprites.builtin.forestTiles13,sprites.builtin.forestTiles9,sprites.builtin.forestTiles6,sprites.builtin.forestTiles7,sprites.builtin.forestTiles11,sprites.builtin.forestTiles15,sprites.builtin.forestTiles10], TileScale.Sixteen);
-        }
             case "chickCoopInside":
             case "级别1":return tiles.createTilemap(hex`0d0008000104040404040404040404040502090909090909090909090906020909090909090909090909060209090909090909090909090602090909090909090909090906020909090909090909090909060209090909090909090909090603070707070000070707070708`, img`
 2 2 2 2 2 2 2 2 2 2 2 2 2 
