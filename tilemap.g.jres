@@ -1,0 +1,44 @@
+{
+    "chickencoop_tile5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "chickencoop_myTile"
+    },
+    "级别1": {
+        "id": "级别1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwZDAwMDgwMDAxMDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA1MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAyMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAyMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDMwNzA3MDcwNzAwMDAwNzA3MDcwNzA3MDgyMjIyMjIyMjIyMjIyMjAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDIyMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMjIwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAyMjIyMjIwMDIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.purpleOuterNorthWest",
+            "sprites.dungeon.purpleOuterWest0",
+            "sprites.dungeon.purpleOuterSouthEast",
+            "sprites.dungeon.purpleOuterNorth0",
+            "sprites.dungeon.purpleOuterNorthEast",
+            "sprites.dungeon.purpleOuterEast1",
+            "sprites.dungeon.purpleOuterSouth1",
+            "sprites.dungeon.purpleOuterSouthWest",
+            "sprites.dungeon.floorDark2",
+            "myTile.chickencoop_tile5"
+        ],
+        "displayName": "chickCoopInside"
+    },
+    "mushroomfarm_级别1": {
+        "id": "mushroomfarm_级别1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDgwMDAxMDQwNDA0MDQwNDA0MDQwNDA1MDMwODA4MDgwODA4MDgwODA4MDYwMzA4MDgwODA4MDgwODA4MDgwNjAzMDgwODA4MDgwODA4MDgwODA2MDMwODA4MDgwODA4MDgwODA4MDYwMzA4MDgwODA4MDgwODA4MDgwNjAyMDAwMDAwMDAwMDAwMDAwMDA3MDAwMDAwMDAwMDAwMDAwMDAwMDAyMjIyMjIyMjIyMDIwMDAwMDAyMDAyMDAwMDAwMjAwMjAwMDAwMDIwMDIwMDAwMDAyMDAyMDAwMDAwMjAwMjAwMDAwMDIwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.builtin.forestTiles5",
+            "sprites.builtin.forestTiles13",
+            "sprites.builtin.forestTiles9",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles7",
+            "sprites.builtin.forestTiles11",
+            "sprites.builtin.forestTiles15",
+            "sprites.builtin.forestTiles10"
+        ],
+        "displayName": "mushroomFarmInside"
+    }
+}
