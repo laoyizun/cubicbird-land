@@ -3,9 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.8",
-        "cubicbird-land-chickencoop": "pub:86218-22586-35202-26366",
-        "cubicbird-land-mushroomfarm": "pub:40173-02569-22174-46446"
+        "cubicbird-land-chickencoop": "github:felixtsu/cubicbird-land-chickencoop#v0.0.1",
+        "cubicbird-land-mushroomfarm": "pub:91434-07728-16321-62777"
     },
     "files": [
         "main.blocks",

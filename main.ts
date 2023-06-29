@@ -4,5 +4,9 @@ scene_util.captureRegisteringRoomScenes(()=>{
     game.popScene()
 })
 
+scene_util.captureRegisteringRoomScenes(() => {
+    mushroomfarm.prepare_mushroomfarm()
+    game.popScene()
+})
 
 cbland.startVillage(false)
