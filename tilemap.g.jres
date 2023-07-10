@@ -46,6 +46,38 @@
         ],
         "displayName": "mushroomFarmInside"
     },
+    "级别4": {
+        "id": "级别4",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzAyMDgwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjA4MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDgwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjA4MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDgwOTA5MGEwYTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjA4MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDgwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjA4MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDgwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAzMDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA0MDAwMDAwMDAwMDAyMDIwMDAwMDAwMDAwMDAwMjAyMDAwMDAwMDAwMDAwMDIwMjAwMDAwMDAwMDAwMDAyMDIwMDAwMDAwMDAwMDAwMjAyMDAwMDAwMDAwMDAwMDIwMjAwMDAwMDAwMDAwMDAyMDIwMDAwMDAwMDAwMDAwMjAyMDAyMjIyMjIyMjIyMjIwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath5",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "zzh级别4"
+    },
+    "级别5": {
+        "id": "级别5",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDEwMTAxMDEwMTA0MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDMwMzAzMDEwMTAxMDEwMTAxMjIyMjIyMDIwMDIyMjIwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.darkGroundNorthWest1",
+            "sprites.dungeon.stairLadder",
+            "sprites.dungeon.doorOpenNorth",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "hxy级别5"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
