@@ -3,8 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "cubicbird-land-chickencoop": "github:felixtsu/cubicbird-land-chickencoop#v0.0.1",
-        "cubicbird-land-mushroomfarm": "pub:91434-07728-16321-62777"
+        "cubicbird-land-chickencoop": "pub:68607-21233-71739-74740",
+        "cubicbird-land-mushroomfarm": "pub:84386-60645-09132-22541"
     },
     "files": [
         "main.blocks",
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.30",
+        "target": "1.12.32",
         "targetId": "arcade"
     },
     "supportedTargets": [
