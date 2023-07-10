@@ -4,7 +4,7 @@
     "dependencies": {
         "device": "*",
         "cubicbird-land-chickencoop": "pub:68607-21233-71739-74740",
-        "cubicbird-land-mushroomfarm": "pub:84386-60645-09132-22541"
+        "cubicbird-land-mushroomfarm": "pub:60509-78758-06762-56674"
     },
     "files": [
         "main.blocks",
