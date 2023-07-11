@@ -6,8 +6,8 @@
         "device": "*",
         "cubicbird-land-chickencoop": "pub:68607-21233-71739-74740",
         "cubicbird-land-mushroomfarm": "pub:60509-78758-06762-56674",
-        "zzh料理大师": "pub:49305-36700-29542-66769",
-        "hxy料理大师": "pub:09854-74679-58139-07824"
+        "hxy料理大师": "pub:09854-74679-58139-07824",
+        "zzh料理大师": "pub:05893-17162-21410-66016"
     },
     "files": [
         "main.blocks",
