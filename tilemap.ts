@@ -78,7 +78,7 @@ namespace myTiles {
 2 . . . . . . . . 2 
 2 . . . . . . . . 2 
 2 2 2 . . . . 2 2 2 
-`, [myTiles.transparency16,sprites.dungeon.floorLight0,sprites.dungeon.darkGroundCenter,sprites.castle.tileGrass3,myTiles.tile8,myTiles.tile10,myTiles.tile11], TileScale.Sixteen);
+`, [myTiles.transparency16,sprites.dungeon.floorLight0,sprites.dungeon.darkGroundCenter,sprites.castle.tileGrass3,myTiles.dz_tile8,myTiles.dz_tile10,myTiles.dz_tile11], TileScale.Sixteen);
         
         }
         return null;
