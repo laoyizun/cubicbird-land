@@ -68,6 +68,18 @@ namespace myTiles {
 2 . . . . . . . . . . . 2 
 2 2 2 2 2 . . 2 2 2 2 2 2 
 `, [myTiles.transparency16, sprites.dungeon.purpleOuterNorthWest, sprites.dungeon.purpleOuterWest0, sprites.dungeon.purpleOuterSouthEast, sprites.dungeon.purpleOuterNorth0, sprites.dungeon.purpleOuterNorthEast, sprites.dungeon.purpleOuterEast1, sprites.dungeon.purpleOuterSouth1, sprites.dungeon.purpleOuterSouthWest, sprites.dungeon.floorDark2, myTiles.chickencoop_tile5], TileScale.Sixteen);
+            case "da_级别2":
+            case "级别2":return tiles.createTilemap(hex`0a0008000101010101010101010101020202020202020201010202020202020202010102020202020202020101020202020202020201010402050206020202010102020202020202020101010103030303010101`, img`
+2 2 2 2 2 2 2 2 2 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 2 2 . . . . 2 2 2 
+`, [myTiles.transparency16,sprites.dungeon.floorLight0,sprites.dungeon.darkGroundCenter,sprites.castle.tileGrass3,myTiles.tile8,myTiles.tile10,myTiles.tile11], TileScale.Sixteen);
+        
         }
         return null;
     })
@@ -77,6 +89,12 @@ namespace myTiles {
             case "transparency16": return transparency16;
             case "myTile":
             case "tile5": return chickencoop_tile5;
+            case "myTile2":
+            case "tile11":return tile11;
+            case "myTile":
+            case "tile8":return tile8;
+            case "myTile1":
+            case "tile10":return tile10;
         }
         return null;
     })
